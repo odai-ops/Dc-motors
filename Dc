@@ -1,0 +1,34 @@
+# Arduino DC Motor Control Project
+
+## Project Description
+This project demonstrates how to control four DC motors using an Arduino Uno and an L293D motor driver. The motors perform a sequence of movements automatically. The system is designed to simulate the movement of a simple robotic vehicle.
+
+## Components
+- Arduino Uno
+- L293D Motor Driver
+- 4 DC Motors
+- Breadboard
+- 9V Battery
+- Jumper Wires
+
+## Features
+- Move forward for 30 seconds.
+- Turn for 60 seconds.
+- Stop for 60 seconds.
+- Repeat the sequence continuously.
+
+## Circuit
+The Arduino sends control signals to the L293D motor driver, which powers and controls the four DC motors. The breadboard is used to distribute power and simplify the wiring.
+
+## Software
+- Arduino IDE
+- Tinkercad Circuits
+
+## How to Run
+1. Connect all components according to the circuit diagram.
+2. Upload the Arduino code.
+3. Power the circuit.
+4. The motors will move forward, turn, stop, and repeat the cycle automatically.
+
+## Author
+Odai Alsheikh
